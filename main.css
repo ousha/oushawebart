@@ -52,9 +52,10 @@ body{
 	padding: 2rem;
 }
 
-.carousel{
-	
+span{
+	text-decoration-line: overline;
 }
+
 
 .pic{
 	width: 30rem;
