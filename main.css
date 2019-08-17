@@ -28,12 +28,17 @@ body{
 
 .logo{
 	margin: 2rem;
-	border: solid 1rem #cd7d7966;
-}	
+	border: solid #cd7d79 2px;
+	border-radius: 30px;
+}
 
 .display-3{
 	text-shadow: 2px 2px 2px black;
 	background-color: #cd7d7966;
+}
+
+.display-4{
+	text-shadow: 2px 2px 2px gray;
 }
 
 .lead{
@@ -53,10 +58,9 @@ body{
 	padding: 2rem;
 }
 
-span{
-	text-decoration-line: line-through;
+.carousel{
+	
 }
-
 
 .pic{
 	width: 30rem;
