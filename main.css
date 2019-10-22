@@ -35,6 +35,8 @@ body{
 .display-3{
 	text-shadow: 2px 2px 2px black;
 	background-color: #cd7d7966;
+	text-align: center;
+	
 }
 
 .display-4{
@@ -61,6 +63,8 @@ body{
 .carousel{
 	width: 70%;
 	left: 15%;
+	border-radius: 20px;
+	border: gray solid 20px;
 }
 
 .pic{
@@ -77,11 +81,11 @@ body{
 .icon{
 	margin: 2rem;
 	font-size: 5rem;
-	color: white;
+	color: #cd7d79;
 }
 
 .icon:hover{
-	color: #cd7d79;
+	color: #cd7d55;
 }
 
 .card{
