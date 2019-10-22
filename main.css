@@ -50,9 +50,11 @@ body{
 	background-color: #00000038;
 }
 
+h3{
+	color:gray;
+}
 .btn{
 	padding: 1rem;
-	border: #fff solid 1px;
 	background-color: #cd7d79;
 }
 
