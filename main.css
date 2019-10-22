@@ -46,7 +46,7 @@ body{
 .lead{
 	border: solid 1px white;
 	padding: 1rem;
-	color: #cd7d79;
+	color: white;
 	background-color: #00000038;
 }
 
@@ -70,7 +70,7 @@ h3{
 
 .pic{
 	width: 30rem;
-	padding: 1rem;
+	padding: .1rem;
 }
 
 
