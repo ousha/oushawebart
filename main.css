@@ -27,7 +27,7 @@ body{
 }
 
 .logo{
-	margin: 2rem;
+	margin: 1rem;
 	border: solid #cd7d79 2px;
 	border-radius: 30px;
 }
@@ -70,7 +70,7 @@ h3{
 
 .pic{
 	width: 30rem;
-	padding: .1rem;
+	padding: 1rem;
 }
 
 
