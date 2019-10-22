@@ -34,7 +34,7 @@ body{
 .display-3{
 	text-shadow: 2px 2px 2px black;
 	background-color: #cd7d7966;
-	text-align: center;
+	padding: 1em;
 	
 }
 
