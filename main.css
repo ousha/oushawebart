@@ -47,7 +47,7 @@ body{
 	border: solid 1px white;
 	padding: 1rem;
 	color: #cd7d79;
-	background-color: #ffffdddb;
+	background-color: #00000038;
 }
 
 .btn{
@@ -63,8 +63,7 @@ body{
 .carousel{
 	width: 70%;
 	left: 15%;
-	border-radius: 20px;
-	border: gray solid 20px;
+	border: #e8a8a4ad solid 5px;
 }
 
 .pic{
